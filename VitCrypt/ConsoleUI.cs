@@ -13,7 +13,9 @@ namespace VitCrypt
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("########################################################################");
             Console.WriteLine("Welcome to VitCrypt!\nVitCrypt is a simple console UI for VEncrypt Lib\n" +
-                "VitCrypt and VEncrypt is created by RitenMaer");
+                "VitCrypt and VEncrypt is created by Riten");
+            Console.WriteLine("Source code: https://github.com/mrRiten/VitCrypt");
+            Console.WriteLine("My GitHub: https://github.com/mrRiten");
             Console.WriteLine("########################################################################\n\n");
             Console.ResetColor();
         }
